@@ -1,0 +1,283 @@
+[
+  {
+    "startTime": "2022-03-13 08:00",
+    "endTime": "2022-03-13 10:00",
+    "addresses": [
+      {
+        "houseNumber": 16,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7172276",
+        "country": "Israel"
+      },
+      {
+        "houseNumber": 18,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7170593",
+        "country": "Israel"
+      },
+      {
+        "houseNumber": 20,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7174444",
+        "country": "Israel"
+      }
+    ]
+  },
+  {
+    "startTime": "2022-03-13 09:00",
+    "endTime": "2022-03-13 11:00",
+    "addresses": [
+      {
+        "houseNumber": 12,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7170303",
+        "country": "Israel"
+      },
+      {
+        "houseNumber": 14,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7170404",
+        "country": "Israel"
+      },
+      {
+        "houseNumber": 18,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7170593",
+        "country": "Israel"
+      }
+    ]
+  },
+  {
+    "startTime": "2022-03-13 10:00",
+    "endTime": "2022-03-13 12:00",
+    "addresses": [
+      {
+        "houseNumber": 22,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7175555",
+        "country": "Israel"
+      },
+      {
+        "houseNumber": 24,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7176666",
+        "country": "Israel"
+      }
+    ]
+  },
+  {
+    "startTime": "2022-03-13 12:00",
+    "endTime": "2022-03-13 14:00",
+    "addresses": [
+      {
+        "houseNumber": 16,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7172276",
+        "country": "Israel"
+      },
+      {
+        "houseNumber": 26,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7177777",
+        "country": "Israel"
+      },
+      {
+        "houseNumber": 28,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7178888",
+        "country": "Israel"
+      }
+    ]
+  },
+  {
+    "startTime": "2022-03-13 14:00",
+    "endTime": "2022-03-13 16:00",
+    "addresses": [
+      {
+        "houseNumber": 30,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7179999",
+        "country": "Israel"
+      },
+      {
+        "houseNumber": 32,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7170000",
+        "country": "Israel"
+      }
+    ]
+  },
+  {
+    "startTime": "2022-03-13 16:00",
+    "endTime": "2022-03-13 18:00",
+    "addresses": [
+      {
+        "houseNumber": 34,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7170101",
+        "country": "Israel"
+      },
+      {
+        "houseNumber": 36,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7170202",
+        "country": "Israel"
+      }
+    ]
+  },
+  {
+    "startTime": "2022-03-13 18:00",
+    "endTime": "2022-03-13 20:00",
+    "addresses": [
+      {
+        "houseNumber": 16,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7172276",
+        "country": "Israel"
+      },
+      {
+        "houseNumber": 38,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7170606",
+        "country": "Israel"
+      },
+      {
+        "houseNumber": 40,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7170707",
+        "country": "Israel"
+      }
+    ]
+  },
+  {
+    "startTime": "2022-03-14 08:00",
+    "endTime": "2022-03-14 10:00",
+    "addresses": [
+      {
+        "houseNumber": 16,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7172276",
+        "country": "Israel"
+      },
+      {
+        "houseNumber": 2,
+        "street": "dam hamaccabim",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7171111",
+        "country": "Israel"
+      }
+    ]
+  },
+  {
+    "startTime": "2022-03-15 08:00",
+    "endTime": "2022-03-15 10:00",
+    "addresses": [
+      {
+        "houseNumber": 2,
+        "street": "dam hamaccabim",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7171111",
+        "country": "Israel"
+      },
+      {
+        "houseNumber": 4,
+        "street": "dam hamaccabim",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7172222",
+        "country": "Israel"
+      }
+    ]
+  },
+  {
+    "startTime": "2022-03-15 08:00",
+    "endTime": "2022-03-16 10:00",
+    "addresses": [
+      {
+        "houseNumber": 30,
+        "street": "dam hamaccabim",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7173333",
+        "country": "Israel"
+      }
+    ]
+  },
+  {
+    "startTime": "2022-03-16 09:00",
+    "endTime": "2022-03-16 11:00",
+    "addresses": [
+      {
+        "houseNumber": 16,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7172276",
+        "country": "Israel"
+      },
+      {
+        "houseNumber": 18,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7170593",
+        "country": "Israel"
+      }
+    ]
+  },
+  {
+    "startTime": "2022-03-17 08:00",
+    "endTime": "2022-03-17 10:00",
+    "addresses": [
+      {
+        "houseNumber": 16,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7172276",
+        "country": "Israel"
+      },
+      {
+        "houseNumber": 18,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7170593",
+        "country": "Israel"
+      }
+    ]
+  },
+  {
+    "startTime": "2022-03-17 09:00",
+    "endTime": "2022-03-18 11:00",
+    "addresses": [
+      {
+        "houseNumber": 16,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7172276",
+        "country": "Israel"
+      },
+      {
+        "houseNumber": 18,
+        "street": "HaNevi'im",
+        "city": "Modiin-Maccabim-Reut",
+        "postCode": "7170593",
+        "country": "Israel"
+      }
+    ]
+  }
+]
